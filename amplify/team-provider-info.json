@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-songsapp-dev-111030-authRole",
+      "UnauthRoleArn": "arn:aws:iam::303537768785:role/amplify-songsapp-dev-111030-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::303537768785:role/amplify-songsapp-dev-111030-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-songsapp-dev-111030-deployment",
+      "UnauthRoleName": "amplify-songsapp-dev-111030-unauthRole",
+      "StackName": "amplify-songsapp-dev-111030",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:303537768785:stack/amplify-songsapp-dev-111030/b9595580-1a78-11ec-b6be-02e42411a4e4",
+      "AmplifyAppId": "d9rh2bhkha1wf"
+    },
+    "categories": {
+      "auth": {
+        "songsapp3210b98d": {}
+      }
+    }
+  }
+}
